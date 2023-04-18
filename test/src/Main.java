@@ -1,12 +1,18 @@
-import java.util.Scanner;
-class program{
+class Main{
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
-        int x = sc.nextInt();
-        int y = sc.nextInt();
-        int dist = t * x;
-        int t2 = dist / y;
-        System.out.println(t + t2);
+        StringBuilder mySb = new StringBuilder();
+        for (int i = 0; i < 1_000_000; i++) {
+            mySb.append("+"); 
+        }
     }
 }
+
+
+
+
+
+
+
+
+
+
