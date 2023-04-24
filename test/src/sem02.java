@@ -85,3 +85,36 @@
 //        System.out.println("правильный ip");
 //    }
 //}
+
+
+import java.util.*;
+
+public class sem02 {
+    public static void main(String[] args){
+        ex1();
+    }
+    static void ex1(){
+        List<Integer> list = createList(10,4,10);
+        System.out.println(list);
+        sort(list);
+        System.out.println(list);
+
+    }
+    static void sort(List<Integer> list){
+        Collections.sort(list);
+    }
+    static List<Integer> createList(int arg, int min, int max){
+        List<Integer> res = new ArrayList<>(arg);
+        for (int i = 0; i < arg; i++) {
+            res.add((int)Math.random() * (max-min+1) + min);
+        }
+        return res;
+
+    }
+}
+
+
+
+
+
+

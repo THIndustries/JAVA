@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 
 class home01{
+    Scanner sc = new Scanner(System.in);
         public static void main(String[] args){
-            Scanner sc = new Scanner(System.in);
+
             //1. Вычислить n-ое треугольного число (сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
             //treugolnik();
             //Вывести все простые числа от 1 до 1000
