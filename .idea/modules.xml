@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/test/Home_work/Home_work.iml" filepath="$PROJECT_DIR$/test/Home_work/Home_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/test/Home_work/Home_work.iml" filepath="$PROJECT_DIR$/Seminar04/test/Home_work/Home_work.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Stepik.iml" filepath="$PROJECT_DIR$/.idea/Java_Stepik.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar04/Seminar04.iml" filepath="$PROJECT_DIR$/Seminar04/Seminar04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/test/Home_work/home_work4/home_work4.iml" filepath="$PROJECT_DIR$/Seminar04/test/Home_work/home_work4/home_work4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/test/Home_work/home_work5/home_work5.iml" filepath="$PROJECT_DIR$/Seminar04/test/Home_work/home_work5/home_work5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/test/test.iml" filepath="$PROJECT_DIR$/Seminar04/test/test.iml" />
     </modules>
   </component>
 </project>

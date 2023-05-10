@@ -1,7 +1,5 @@
 package Java_home_work2;
 import java.util.Scanner;
-
-import static Java_home_work2.Jewels.findJewelsInStones;
 //import static Java_home_work2.stringShuffle.stringShuffle;
 
 public class main {
